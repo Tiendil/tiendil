@@ -14,4 +14,4 @@ Interesting stuff about me:
 - Actually, I operate my own hobby mini-MMO game, where I do almost everything.
 - Check my blog for interesting essays: https://tiendil.org/ — someday I will translate it to English :-)
 
-Have a good day. Fill free to contact me for any reason — I like to exchange letters.
+Have a good day. Feel free to contact me by email: a.eletsky@gmail.com for any reason — I like to exchange letters.

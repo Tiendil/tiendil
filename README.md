@@ -1,6 +1,6 @@
 # Programming for money and fun
 
-Old-school indie game developer & hacker. My languages are Русский & English.
+Old-school indie game developer & hacker. My languages are Russian & English.
 
 Most of my career I develop games:
 
@@ -11,7 +11,7 @@ Interesting stuff about me:
 
 - Have not attached to a single technology, can easily switch to the most appropriate stack for a current project.
 - Can do a lot of things except programming: marketing, support, community development, etc.
-- Actually, I operate my own hobby mini-MMO game, where I do everything.
+- Actually, I operate my own hobby mini-MMO game, where I do almost everything.
 - Check my blog for interesting essays: https://tiendil.org/ — someday I will translate it to English :-)
 
 Have a good day. Fill free to contact me for any reason — I like to exchange letters.

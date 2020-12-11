@@ -1,10 +1,10 @@
-# Programming for fun and money
+# Development for fun and profit
 
 Old-school indie game developer & hacker. My languages are Russian & English.
 
 Most of my career I develop games:
 
-- For money: [Order of War](https://en.wikipedia.org/wiki/Order_of_War), [World of Tanks](https://en.wikipedia.org/wiki/World_of_Tanks), Toy Defense ([1](https://play.google.com/store/apps/details?id=com.melesta.toydefense), [2](https://play.google.com/store/apps/details?id=com.melesta.toydefense2), [3](https://play.google.com/store/apps/details?id=com.melesta.toydefense3)), [My Cafe](https://play.google.com/store/apps/details?id=com.melesta.coffeeshop).
+- For profit: [Order of War](https://en.wikipedia.org/wiki/Order_of_War), [World of Tanks](https://en.wikipedia.org/wiki/World_of_Tanks), Toy Defense ([1](https://play.google.com/store/apps/details?id=com.melesta.toydefense), [2](https://play.google.com/store/apps/details?id=com.melesta.toydefense2), [3](https://play.google.com/store/apps/details?id=com.melesta.toydefense3)), [My Cafe](https://play.google.com/store/apps/details?id=com.melesta.coffeeshop).
 - For fun: [Сказка](https://the-tale.org/) ([github organization](https://github.com/the-tale)).
 
 Interesting stuff about me:

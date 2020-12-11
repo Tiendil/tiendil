@@ -1,4 +1,4 @@
-# Programming for money and fun
+# Programming for fun and money
 
 Old-school indie game developer & hacker. My languages are Russian & English.
 

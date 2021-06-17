@@ -10,7 +10,7 @@ Most of my career I develop games:
 Interesting stuff about me:
 
 - Have not attached to a single technology, can easily switch to the most appropriate stack for a current project.
-- Can do a lot of things except programming: game design, marketing, support, community development, etc.
+- Can do a lot of things besides programming: game design, marketing, support, community development, etc.
 - Actually, I operate my own hobby mini-MMO game, where I do almost everything.
 - Check my blog for interesting essays: https://tiendil.org/ — someday I will translate it to English :-)
 

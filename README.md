@@ -15,3 +15,5 @@ Interesting stuff about me:
 - Check my blog for interesting essays: https://tiendil.org/ — someday I will translate it to English :-)
 
 Have a good day. Feel free to contact me by email: a.eletsky@gmail.com — I like to exchange letters.
+
+Discord: [427884798099456010](https://discordapp.com/users/427884798099456010)
